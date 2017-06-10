@@ -6,4 +6,8 @@ OuO
 
 
 rrrrr
+<<<<<<< HEAD
 fun()
+=======
+axAJCIoicjoiCJI
+>>>>>>> c74afc8bd0bba5b22b56bfe7d9e13699f01c2548
